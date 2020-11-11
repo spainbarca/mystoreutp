@@ -4,14 +4,13 @@ class ControladorRuta{
 
 	static public function ctrRuta(){
 
-		return "http://localhost:8083/MyStore/";
+		return "https://spainbarca.github.io/mystoreutp/";
 
 	}
 
 	static public function ctrRutaBackend(){
 
-		return "http://localhost:8083/MyStore/backend/";
-
+		return "https://spainbarca.github.io/mystoreutp/backend/";
 	}
 
 }
